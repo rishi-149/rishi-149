@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi-149&label=Profile%20views&color=0e75b6&style=flat" alt="rishi-149" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi-149" alt="rishi-149" /></a> </p>
 
 - 🔭 I’m currently working on **1. CI/CD pipeline implementation using Jenkins, Docker, and Kubernetes. 2. Automating infrastructure on AWS using Terraform**
 
